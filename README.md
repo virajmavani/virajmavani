@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Viraj! 👋
 
 I am a software engineer at Walmart Inc. working on a fraud detection engine preventing fraud worth $100M every year. On the side, I am working on a cool project to ease the lives of researchers in AI (yet to be made public). When I am not working, you will find me playing open-world or stealth games on my console. I am open to new and exciting career opportunities.
 
