@@ -1,6 +1,6 @@
 ### Hi there, I am Viraj! 👋
 
-I am a software engineer at Walmart Inc. working on a fraud detection engine preventing fraud worth $100M every year. On the side, I recently created a custom new tab page Chrome extension which eases the process of filtering search results from frequently used target websites called [Bifrost](https://bifrost.virajmavani.com/). When I am not working, you will find me playing open-world or stealth games on my console. I am open to new and exciting career opportunities.
+I am a software engineer at Amazon Web Services working in fraud and abuse prevention. On the side, I recently created a custom new tab page Chrome extension which eases the process of filtering search results from frequently used target websites called [Bifrost](https://bifrost.virajmavani.com/). When I am not working, you will find me playing open-world or stealth games on my console. I am open to new and exciting career opportunities.
 
 - 🔭 I’m currently working on a social platform for academic research in AI
 - 🌱 I’m currently learning React.js and Java Spring
